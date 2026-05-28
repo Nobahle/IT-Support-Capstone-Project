@@ -260,15 +260,21 @@ This capstone project demonstrates:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Smarties Group
 
-**[Smarties Group]:**
-**Nobahle Vuyiswa Nzimande**
-**Siphelele Malotana**
-**Sipe Nonyukela**
-**Liam Alexander**
-Google IT Support Professional Certificate Candidates
-BSG Tech Career Accelerator
+## Group Members
+
+* Nobahle Vuyiswa Nzimande
+* Siphelele Malotana
+* Sipe Nonyukela
+* Liam Alexander
+
+---
+
+## Google IT Support Professional Certificate Candidates
+
+### BSG Tech Career Accelerator
+
 
 ---
 
